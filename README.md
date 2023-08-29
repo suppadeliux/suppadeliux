@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suppadeliux
 - 👀 I’m interested in web development and UX/UI design
-- 🌱 I’m currently learning Angular, golang, javascript, typescript, react, java, php & more.
+- 🌱 I’m an expert in Angular, javascript, typescript & more.
 <!---- 💞️ I’m looking to collaborate on 📫 How to reach me ... ---->
 
 <!---
